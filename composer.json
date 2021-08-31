@@ -1,0 +1,17 @@
+{
+    "name": "cors/demo",
+    "type": "package",
+    "homepage": "http://www.cors.gmbh",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "CORS GmbH",
+            "email": "office@cors.gmbh",
+            "homepage": "https://www.cors.gmbh/",
+            "role": "TEAM"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+}
